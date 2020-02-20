@@ -1,3 +1,5 @@
+In the runnable file you can find a .jar file to run the application on your computer.
+
 ### A link for the project repo
 
 https://github.com/alaulwan/2DV603_Hotel
